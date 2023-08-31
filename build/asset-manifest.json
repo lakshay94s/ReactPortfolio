@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a95791ad.css",
+    "main.js": "/static/js/main.91d2e014.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Resume.pdf": "/static/media/Resume.20c1f90a79faefcb6e26.pdf",
+    "static/media/image2.jpg": "/static/media/image2.8a31a1ec7c0cda199b09.jpg",
+    "static/media/image.jpg": "/static/media/image.688a1c5e199bf4fbb079.jpg",
+    "static/media/music logo dreams time.jpg": "/static/media/music logo dreams time.72cfdb8f5779a8cb5141.jpg",
+    "index.html": "/index.html",
+    "main.a95791ad.css.map": "/static/css/main.a95791ad.css.map",
+    "main.91d2e014.js.map": "/static/js/main.91d2e014.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95791ad.css",
+    "static/js/main.91d2e014.js"
+  ]
+}
